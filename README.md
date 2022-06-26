@@ -1,25 +1,13 @@
 
 
 <h1 align="center">
-  👋 Hi, I’m @Massi117
+  👋 Hi, I’m Massinissa Bosli @Massi117
 </h1>
-
-<div align="center">
-  ![CurrentBanner](https://user-images.githubusercontent.com/106630217/175835933-586e8256-0624-48d7-a2ff-e98741dadd38.jpg)
-
-  <img src="https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif" width="600" height="300"/>
-</div>
 
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/massinissa-bosli-50a4ba238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
