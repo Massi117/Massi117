@@ -4,9 +4,10 @@
   👋 Hi, I’m @Massi117
 </h1>
 
-
 <div align="center">
-  <img src="https://media4.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif?cid=ecf05e47bok53od2m7nfu6q7hjf1rowgvo5sozxdaj2zzhao&rid=giphy.gif&ct=g" width="600" height="300"/>
+  ![CurrentBanner](https://user-images.githubusercontent.com/106630217/175835933-586e8256-0624-48d7-a2ff-e98741dadd38.jpg)
+
+  <img src="https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif" width="600" height="300"/>
 </div>
 
 
