@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  👋 Hi, I’m Massinissa Bosli @Massi117
+  Hi, I’m Massinissa Bosli 👋 
 </h1>
 
 
@@ -15,7 +15,6 @@
 <img src="https://komarev.com/ghpvc/?username=Massi117&style=flat-square&color=blue" alt=""/>
 </div>
 
----
 
 ### :man_technologist: About Me :
 
@@ -43,7 +42,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: GitHub Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Massi117&theme=dark&background=000000)](https://git.io/streak-stats)
 
