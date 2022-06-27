@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/massinissa-bosli-50a4ba238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:myb24@bu.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  </a>
 </div>
 
 <div align="center">
@@ -16,15 +19,15 @@
 </div>
 
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 - I am currently a undergraduate student at Boston University studying Biomedical Engineering with a concentration in Machine Learning
 - I am currently exploring and learning machine learning concepts through boh my classes and independent studying. 
 
 
----
 
-### :hammer_and_wrench: Languages and Tools :
+
+## :hammer_and_wrench: Familiar Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
@@ -40,9 +43,9 @@
 </div>
 
 
----
 
-### :fire: GitHub Stats :
+
+## :fire: GitHub Stats :
 
 [![Massi’s github stats](https://github-readme-stats.vercel.app/api?username=Massi117)](https://github.com/Massi117)
 
