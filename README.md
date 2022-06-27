@@ -25,6 +25,10 @@
 - I am currently exploring and learning machine learning concepts through boh my classes and independent studying. 
 
 
+## 📝 Past Experiences and Projects :
+
+- I have  
+
 
 
 ## :hammer_and_wrench: Familiar Languages and Tools :
@@ -54,10 +58,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massi117&layout=compact)](https://github.com/Massi117)
 
 
-
-
-
-<!---
-Massi117/Massi117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
