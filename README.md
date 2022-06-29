@@ -60,6 +60,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Massi117&theme=default&background=ffffff)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massi117&layout=compact)](https://github.com/Massi117)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massi117)](https://github.com/Massi117)
 
 
