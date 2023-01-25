@@ -22,7 +22,7 @@
 ## :man_technologist: About Me :
 
 - I am currently a undergraduate student at Boston University studying Biomedical Engineering with a concentration in Machine Learning
-- I am currently exploring and learning machine learning concepts through boh my classes and independent studying. 
+- I am currently exploring and learning machine learning concepts through both my classes and independent studying. 
 
 
 ## 📝 Past Experiences and Projects :
